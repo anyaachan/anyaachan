@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am a Beginner Data Scientits and BSc Computer Science Student
 
 <!--
 **anyaachan/anyaachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
