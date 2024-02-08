@@ -1,7 +1,14 @@
-### Hi! I am a Beginner Data Scientits and BSc Computer Science Student
+### Hi! I am Anna, a Beginner Data Scientist and BSc (Hons) Computer Science Student
 
+My primary field of interest is Machine Learning Algorithms, particularly **Deep Learning**. Currently, I am working on personal ML projects and participating in Kaggle competitions, and I am eager to dive even deeper into AI. 
+
+Some of my hobbies are climbing, yoga, photography and nature exploration 🌱. 
+
+## How To Reach Me 👀
+- [Telegram](t.me/anyaachan)  📝
+- [Email](anna.danchenko@icloud.com) 📨
+- [LinkedIn](linkedin.com/in/anna-danchenko/) 💡
 <!--
-**anyaachan/anyaachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
