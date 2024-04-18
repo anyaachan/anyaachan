@@ -5,9 +5,9 @@ My primary field of interest is Machine Learning Algorithms, particularly **Deep
 Some of my hobbies are climbing, yoga, photography and nature exploration 🌱. 
 
 ## How To Reach Me 👀
-- [Telegram](t.me/anyaachan)  📝
+- [Telegram](https://t.me/anyaachan)  📝
 - [Email](anna.danchenko@icloud.com) 📨
-- [LinkedIn](linkedin.com/in/anna-danchenko/) 💡
+- [LinkedIn](https://www.linkedin.com/in/anna-danchenko/) 💡
 <!--
 
 Here are some ideas to get you started:
