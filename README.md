@@ -1,8 +1,8 @@
-### Hi! I am Anna, a Beginner Data Scientist and BSc (Hons) Computer Science Student
+### Hi! I am Anna, a Beginner DS/ML Developer and BSc Computer Science Student
 
-My primary field of interest is Machine Learning Algorithms, particularly **Deep Learning**. Currently, I am working on personal ML projects and participating in Kaggle competitions, and I am eager to dive even deeper into AI. 
+My primary field of interest is Machine Learning Algorithms. Currently, I am working on personal ML projects and participating in Kaggle competitions, and I am eager to dive deeper into AI. 
 
-Some of my hobbies are climbing, yoga, photography and nature exploration 🌱. 
+Some of my hobbies are yoga, jam sessions, photography and nature exploration 🌱. 
 
 ## How To Reach Me 👀
 - [Telegram](https://t.me/anyaachan)  📝
