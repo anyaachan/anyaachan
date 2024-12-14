@@ -1,6 +1,6 @@
-### Hi! I am Anna, a Beginner DS/ML Developer and BSc Computer Science Student
+### Hi! I am Anna, an AI/ML Developer, AI Art Enthusiast and BSc Computer Science Student
 
-My primary field of interest is Machine Learning Algorithms. Currently, I am working on personal ML projects, and I am eager to dive deeper into AI. 
+My primary fields of interest are AI Algorithms and the synergy of art and technology. 
 
 Some of my hobbies are jam sessions, photography and nature exploration 🌱. 
 
