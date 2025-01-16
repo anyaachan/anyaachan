@@ -1,5 +1,4 @@
-### Hi! I am Anna, an AI/ML Developer, AI Art Enthusiast and BSc Computer Science Student
-
+### Hi! I am Anna, an AI/ML Developer and 3D Artist
 My primary fields of interest are AI Algorithms and the synergy of art and technology. 
 
 Some of my hobbies are jam sessions, photography and nature exploration 🌱. 
@@ -7,7 +6,6 @@ Some of my hobbies are jam sessions, photography and nature exploration 🌱.
 ## How To Reach Me 👀
 - [Telegram](https://t.me/anyaachan)  📝
 - [Email](anna.danchenko@icloud.com) 📨
-- [LinkedIn](https://www.linkedin.com/in/anna-danchenko/) 💡
 <!--
 
 Here are some ideas to get you started:
