@@ -1,7 +1,7 @@
-### Hi! I am Anna, an AI/ML Developer and 3D Artist
-My primary fields of interest are AI Algorithms and the synergy of art and technology. 
+### Hi! I am Anna, an AI/Product Engineer
+My primary fields of interest are AI Algorithms and the synergy of art, robotics and technology. 
 
-Some of my hobbies are jam sessions, photography and nature exploration 🌱. 
+Besides coding, I love airplanes, hiking, yoga, exotic pets. 
 
 ## How To Reach Me 👀
 - [Telegram](https://t.me/anyaachan)  📝
